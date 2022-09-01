@@ -6,12 +6,10 @@ first of all download the the zip file from this link =>  https://drive.google.c
 
 put it inside of the project directory (beside of DataGathering.ipynb)
 
-and then run the files in this order
+The steps of running project file is :
 
-1- DataGathering.ipynb
-2- Learning.ipynb
-3- Testing.ipynb
+1. **DataGathering.ipynb**, Gathering image of animals in diffrect calsses
+2. Learning.ipynb, Start Learning of our model built by TensorFlow
+3. Testing.ipynb, It is for testing our model and visualizing the accuracy of it
 
-after reacing to almost 80 percent of accuricy the learnign will finish
-
-
+After 80% accuracy, learning is automatically terminated by executing the **Call Back** command
