@@ -14,7 +14,7 @@ The steps of running project file is :
 
 After 80% accuracy, learning is automatically terminated by executing the **Call Back** command
 
-![epoch](https://myoctocat.com/assets/images/base-octocat.svg](https://github.com/6amir6hosein6/Animal-Classification-Machin-learning/blob/master/Result!!/Epoch.png)
+![epoch](https://github.com/6amir6hosein6/Animal-Classification-Machin-learning/blob/master/Result!!/Epoch.png)
 
 ![tensor-board](https://github.com/6amir6hosein6/Animal-Classification-Machin-learning/blob/master/Result!!/TensorBoard.png)
 
